@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clovy<br/>
+- 👋 Hi, I’m Clovis Atiki<br/>
 - 👀 I’m interested in Artificial inteligence and Machine learning<br/>
 - 🌱 I’m currently learning Machine learning , creating AI agents and fine tuning <br/>
 - 💞️ I’m looking to collaborate on various ML projects with use of py and varrious frame works<br/>
